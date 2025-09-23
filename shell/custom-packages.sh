@@ -45,4 +45,4 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
 # 任务设置
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 # netbird
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES netnird netbird"
+# CUSTOM_PACKAGES="$CUSTOM_PACKAGES netnird netbird"
